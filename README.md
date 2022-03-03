@@ -1,4 +1,4 @@
-### I am currently learning HTML5, CSS3, JavaScript, and Java. I have played around with Python as well. 👋
+### I am currently learning frontend development. 👋
 
 <!--
 **CaSaundra-Salgado/CaSaundra-Salgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
